@@ -82,11 +82,17 @@
 
 ### Результат 1
 
-![ResultPro1](PROSHKA_Pytests/Screenshots/ResultPro1.png)
+![ResultPro1](PROSHKA_Pytest/Screenshots/ResultPro1.png)
 
 ### Результат 2
 
-![ResultPro2](PROSHKA_Pytests/Screenshots/ResultPro2.png)
+![ResultPro2](PROSHKA_Pytest/Screenshots/ResultPro2.png)
+
+## Отчёт Allure
+
+[Открыть Allure-отчёт](https://dora-lee788.github.io/Proshka_tests/)
+
+Отчёт содержит результаты автоматизированного тестирования сайта PROSHKA.
 
 ## Запуск тестов
 
@@ -94,4 +100,6 @@
 
 ```bash
 pip install -r requirements.txt
+
+
 
